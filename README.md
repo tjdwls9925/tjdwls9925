@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeongJin&fontSize=90" />
 </div>
 
-<div style="text-align: center;">
+<div style="display:flex; justify-content : center; ">
     <p style="text-align: center;">👋 My Tech Stack</p>
 </div>
 
