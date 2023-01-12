@@ -36,8 +36,4 @@
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<div>
-	![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tjdwls9925&show_icons=true&theme=tokyonight)	
-</div>
-	
 
