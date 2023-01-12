@@ -36,5 +36,6 @@
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdwls9925&layout=compact"><br><br>
-
+<div>
+	[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdwls9925)](https://github.com/tjdwls9925/github-readme-stats)
+	</div>
