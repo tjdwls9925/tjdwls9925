@@ -26,7 +26,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools~ 🛠</p>
+	<p>🛠 Tools~! 🛠</p>
 </div>
 <div align=center>
 <div></div>
